@@ -1,11 +1,9 @@
-## Hi there 👋 GULSHAN KUMAR
+<h1 align="center">Hi 👋, I'm Gulshan Kumar</h1>
+<h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
-### Hi there 👋 I'm Gulshan Kumar
-
-🚀 Passionate Full-Stack Web Developer (MERN Stack)  
-💻 I love building beautiful and functional websites  
-🌱 Currently learning: Advanced Backend & AI with Python  
-📍 From: Raebareli, Uttar Pradesh, India
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500" />
+</p>
 
 ---
 
@@ -19,22 +17,30 @@
 
 ---
 
-### 🏆 Achievements & Highlights
+### 🏆 Achievements
 
-- 🔥 Built multiple mini projects like *Clock App, Calculator, Weather App*
-- 📈 Consistently learning MERN Stack and working on real-world projects
-- ✍ Created educational content for JavaScript and Finance (YouTube)
+- 🔥 Built multiple projects like Clock App, Calculator, Weather App  
+- 🧠 Learning MERN & AI with Python  
+- 📈 Improving JavaScript daily with DSA  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Gulshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulshan996&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulshan996&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulshan996&show_icons=true&theme=tokyonight" alt="gulshan996 stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshan996&layout=compact&theme=tokyonight" alt="gulshan996 langs"/>
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gulshan-kumar) (optional)
-- 📧 eng.gulshankumar@gmail.com
+- 📧 Email: gulshanbaadshah604@gmail.com  
+- 🌐 Portfolio: Coming Soon...  
+- 🔗 [GitHub](https://github.com/gulshan996)
+
+---
+
+<p align="center">✨ Thank you for visiting my profile! Keep Learning & Keep Building 🚀</p>
