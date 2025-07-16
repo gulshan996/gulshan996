@@ -37,4 +37,4 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gulshan-kumar) (optional)
-- 📧 gulshanbaadshah604@gmail.com
+- 📧 eng.gulshankumar@gmail.com
