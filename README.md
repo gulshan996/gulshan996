@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Engineer full Stack Developer </h3>
 
 <p align="center">
-  <img src="[(https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)]" alt="coding" width="500" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500" />
 </p>
 
 ---
